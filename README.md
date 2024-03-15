@@ -1,14 +1,18 @@
 Brain Tumor Classifier: Early Detection Through Machine Learning (Under Development)
-Project Overview:
+
+صورة ![Gemini_Generated_Image (4)](https://github.com/youssef-khalf/GDSC_project/assets/115180292/8a9fbbb0-7c76-46c7-8f2e-49936f74140d)
+
+
+Project Overview
 
 This project tackles the crucial challenge of early brain tumor detection by developing a user-friendly application built with Python. By leveraging the power of machine learning and image processing, we aim to assist medical professionals in identifying potential tumors from MRI scans.
 
-Key Features:
+Key Features
 
 Seamless User Interface: An intuitive GUI (Graphical User Interface) built with Tkinter facilitates easy interaction for users, making image upload and result retrieval effortless.
 Streamlined Workflow: Users can conveniently upload MRI scans using the "Browse" button. The application then performs real-time predictions using a pre-trained machine learning model.
 Clear and Actionable Results: The prediction outcome is displayed prominently, indicating whether the brain scan appears normal or suggests a possible tumor. This empowers medical professionals to make informed decisions regarding further diagnostic steps.
-Technical Stack:
+Technical Stack
 
 Python (3.x): The foundation of the application, enabling efficient development and integration of various libraries.
 Tkinter: Provides essential building blocks for creating the user-friendly interface.
@@ -16,7 +20,7 @@ Keras: A high-level neural network API, allowing us to construct a robust machin
 OpenCV: Offers advanced image processing capabilities to ensure accurate data preparation for the model.
 NumPy: Provides a powerful foundation for numerical computing, crucial for data manipulation during model training and inference.
 PIL (Pillow): Enables efficient handling and manipulation of medical image data.
-Current Stage and Future Plans:
+Current Stage and Future Plans
 
 This project is actively under development, with the core functionalities for user interaction and image upload functionality already implemented. Our ongoing efforts focus on:
 
