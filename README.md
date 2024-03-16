@@ -1,6 +1,6 @@
 Brain Tumor Classifier: Early Detection Through Machine Learning (Under Development)
 
-صورة ![Gemini_Generated_Image (4)](https://github.com/youssef-khalf/GDSC_project/assets/115180292/8a9fbbb0-7c76-46c7-8f2e-49936f74140d)
+ ![Gemini_Generated_Image (4)](https://github.com/youssef-khalf/GDSC_project/assets/115180292/8a9fbbb0-7c76-46c7-8f2e-49936f74140d)
 
 
 Project Overview
